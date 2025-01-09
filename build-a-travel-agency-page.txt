@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Travel Agency Page</title>
+  </head>
+  <body>
+    <h1>Travel Destinations</h1>
+    <p>
+      Find great deals & holiday packages at amazing prices with our online travel agency!
+    </p>
+  
+    <h2>Packages</h2>
+    <p>Here are the options we offer.</p>
+    
+    
+    <ul>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+    </ul>
+    
+    <h2>Top Itineraries</h2>
+      <ul>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Japan</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Korea</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Paris</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Beijing</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Rome</a></li>
+    </ul>
+  
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Colosseo">  </a>
+      <figcaption>Echoes of ancient glory in every stone.</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="The sea with a boat to the side.">  </a>
+      <figcaption>Where the waves whisper peace and the horizon heals. </figcaption>
+    </figure>
+      <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"> <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="The alps in the sunset">  </a>
+      <figcaption>Golden hues over the Alps—nature's masterpiece at sunset.</figcaption>
+    </figure>
+  </body>
+  <footer>
+  </footer>
+
+
+</html>
