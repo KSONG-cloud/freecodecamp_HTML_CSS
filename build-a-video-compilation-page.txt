@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>Jazzies</h1>
+        <p>Jazz is the ultimate free spirit of music—bold, unpredictable, and full of life! From its toe-tapping rhythms to its soulful solos, jazz dances between structure and spontaneity, making every performance feel like an adventure. Whether it’s the sultry sway of a saxophone, the playful bounce of a piano, or a trumpet’s triumphant wail, jazz invites you to lose yourself in its groove. It’s a genre that doesn’t just entertain—it connects, celebrates, and improvises its way into your soul.</p>
+        <section>
+            <h2>Café Jazz</h2>
+            <p>Café jazz captures the essence of laid-back sophistication, blending soft melodies, soothing rhythms, and the gentle hum of instruments like piano and saxophone. It creates an inviting ambiance, perfect for unwinding with a cup of coffee or sparking quiet inspiration.</p>
+            <iframe src="https://www.youtube.com/watch?v=j9RYM83nMmA" title="Cafe Jazz" height="200" width="300"></iframe>
+        </section>
+
+        <section>
+            <h2>Christmas Jazz</h2>
+            <p>Christmas jazz weaves together the timeless charm of holiday classics with the rich, soulful tones of smooth melodies. From the playful swing of jingle bells to the soothing hum of saxophones, it creates a cozy, festive atmosphere that warms hearts and sets the perfect holiday mood.</p>
+            <iframe src="https://www.youtube.com/watch?v=K2pUWtBpXLk" title="Christmas Jazz" height="200" width="300"></iframe>
+        </section>
+        
+        <section>
+            <h2>Library Jazz</h2>
+            <p>Library jazz blends soft, mellow melodies with gentle rhythms, creating a peaceful backdrop perfect for focus and contemplation. Its understated elegance fosters an atmosphere of calm productivity, making it ideal for studying, reading, or simply unwinding.</p>
+            <iframe src="https://www.youtube.com/watch?v=py-XngZRECQ" title="Library Jazz" height="200" width="300"></iframe>
+        </section>
+    </main>
+</body>
+
+</html>
