@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Classic Cheesecake Recipe</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>Classic Cheesecake Recipe</h1>
+    <p>
+      This is a classic recipe for cheesecake.   
+    </p>
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="Three eggs and a whisk.">
+    <h2>Ingredients</h2>
+    <ul>
+      <li>Cream cheese</li>
+      <li>Egg</li>
+      <li>Sugar</li>
+      <li>Vanilla</li>
+      <li>Heavy Cream</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li>Cream the cream cheese with sugar.</li>
+      <li>Add in eggs one at a time.</li>
+      <li>Add in heavy cream and vanilla.</li>
+      <li>Pour into baking tin and bake at 160C for 1 hour.</li>
+    </ol>
+  </body>
+  <footer>
+  </footer>
+</html>
