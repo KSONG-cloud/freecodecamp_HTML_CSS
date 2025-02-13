@@ -1,4 +1,4 @@
-# freecodecamp_HTML
+# freecodecamp_HTML_CSS
 
 
-My progress in FreeCodeCamp HTML series.
+My progress in FreeCodeCamp HTML and CSS series.
